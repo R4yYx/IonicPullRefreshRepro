@@ -14,7 +14,6 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^11.0.3",
-    "@angular/cdk": "^11.0.1",
     "@angular/common": "^11.0.3",
     "@angular/core": "^11.0.3",
     "@angular/forms": "^11.0.3",
@@ -22,9 +21,6 @@
     "@angular/platform-browser-dynamic": "^11.0.3",
     "@angular/router": "^11.0.3",
     "@auth0/angular-jwt": "^5.0.2",
-    "@cos/common": "^3.0.5",
-    "@cos/theme": "^1.0.12",
-    "@ionic-native/barcode-scanner": "^5.30.0",
     "@ionic-native/camera": "^5.30.0",
     "@ionic-native/core": "^5.30.0",
     "@ionic-native/device": "^5.30.0",
@@ -51,11 +47,6 @@
     "@ngx-translate/core": "^13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
     "cordova-android": "^9.0.0",
-    "ng2-pdf-viewer": "^6.3.2",
-    "ngx-color-picker": "^8.2.0",
-    "ngx-pinch-zoom": "^2.5.4",
-    "pouchdb": "^7.2.2",
-    "pouchdb-find": "^7.2.2",
     "rxjs": "^6.6.3",
     "tslib": "^2.0.0",
     "zone.js": "^0.10.3"
@@ -68,7 +59,6 @@
     "@angular/compiler": "^11.0.3",
     "@angular/compiler-cli": "^11.0.3",
     "@angular/language-service": "^11.0.3",
-    "@cos/scandit": "^5.14.4",
     "@ionic/angular-toolkit": "^3.0.0",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
@@ -96,7 +86,7 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "^4.0.5"
+    "typescript": "4.0.5"
   },
   "description": "PullRefreshBugRepro",
   "cordova": {
