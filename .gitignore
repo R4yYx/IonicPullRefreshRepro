@@ -29,3 +29,16 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+.idea/
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+.idea/sonarlint
+**___jb_tmp___
+*.http
+resources/android/icon/*
+resources/android/splash/*
+resources/ios/icon/*
+resources/ios/splash/*

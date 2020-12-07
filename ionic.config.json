@@ -1,5 +1,7 @@
 {
   "name": "PullRefreshBugRepro",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
